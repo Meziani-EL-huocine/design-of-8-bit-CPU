@@ -5,7 +5,7 @@ This project is an **8-bit CPU** designed in **VHDL** with a modular approach. I
 
 - **[ALU (Arithmetic Logic Unit)](https://github.com/Meziani-EL-huocine/design-of-8-bit-CPU/tree/main/ALU)**
 - **[Control Unit](https://github.com/Meziani-EL-huocine/design-of-8-bit-CPU/tree/main/Control_Unit)**
-- **[Data Path](https://github.com/Meziani-EL-huocine/data_path)**
+- **[Data Path](https://github.com/Meziani-EL-huocine/design-of-8-bit-CPU/tree/main/Data_Path)**
 - **[CPU (Top-Level Integration)](https://github.com/Meziani-EL-huocine/CPU)**
 
 Each component is designed to be flexible, easily modifiable, and reusable in different configurations. The 8-bit CPU is built for educational purposes, targeting students and engineers interested in digital design and CPU architecture.
