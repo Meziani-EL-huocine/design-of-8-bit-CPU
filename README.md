@@ -35,14 +35,6 @@ The data path is responsible for routing data between the CPU components, includ
 The top-level design integrates the ALU, Control Unit, and Data Path to form the complete 8-bit CPU. It defines the CPU's architecture and ensures all components work together to execute instructions.  
 **[CPU Repository](https://github.com/Meziani-EL-huocine/design-of-8-bit-CPU/tree/main/CPU)**
 
-## How to Run
-Clone the required repositories:
-
-```bash
-git clone https://github.com/Meziani-EL-huocine/ALU.git
-git clone https://github.com/Meziani-EL-huocine/control_unit.git
-git clone https://github.com/Meziani-EL-huocine/data_path.git
-git clone https://github.com/Meziani-EL-huocine/CPU.git
 
 ## Future possible Enhancements
 - Extending the instruction set to include more complex operations.
