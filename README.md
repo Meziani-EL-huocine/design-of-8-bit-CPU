@@ -21,19 +21,19 @@ This CPU design is divided into four repositories, each focusing on a specific p
 
 ### 1. ALU (Arithmetic Logic Unit)
 The ALU performs all arithmetic and logical operations in the CPU, with support for 8-bit data and flag handling.  
-**[ALU Repository](https://github.com/Meziani-EL-huocine/ALU)**
+**[ALU Repository](https://github.com/Meziani-EL-huocine/design-of-8-bit-CPU/tree/main/ALU)**
 
 ### 2. Control Unit
 The control unit decodes instructions and generates control signals to orchestrate data flow and operation execution within the CPU.  
-**[Control Unit Repository](https://github.com/Meziani-EL-huocine/control_unit)**
+**[Control Unit Repository](https://github.com/Meziani-EL-huocine/design-of-8-bit-CPU/tree/main/Control_Unit)**
 
 ### 3. Data Path
 The data path is responsible for routing data between the CPU components, including registers, ALU, and memory units. It ensures data moves as needed based on control signals.  
-**[Data Path Repository](https://github.com/Meziani-EL-huocine/data_path)**
+**[Data Path Repository](https://github.com/Meziani-EL-huocine/design-of-8-bit-CPU/tree/main/Data_Path)**
 
 ### 4. CPU (Top-Level Design)
 The top-level design integrates the ALU, Control Unit, and Data Path to form the complete 8-bit CPU. It defines the CPU's architecture and ensures all components work together to execute instructions.  
-**[CPU Repository](https://github.com/Meziani-EL-huocine/CPU)**
+**[CPU Repository](https://github.com/Meziani-EL-huocine/design-of-8-bit-CPU/tree/main/CPU)**
 
 ## How to Run
 Clone the required repositories:
