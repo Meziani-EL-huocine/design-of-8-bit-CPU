@@ -41,8 +41,9 @@ The top-level design integrates the ALU, Control Unit, and Data Path to form the
 - Integrating external I/O devices for more advanced functionalities.
 - Implementing pipelining or a more sophisticated control flow.
 
-## License
-This project is licensed under the MIT License - see the (LICENSE) file for details.
+ ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
