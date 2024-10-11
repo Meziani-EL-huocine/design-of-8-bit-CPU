@@ -44,4 +44,13 @@ git clone https://github.com/Meziani-EL-huocine/control_unit.git
 git clone https://github.com/Meziani-EL-huocine/data_path.git
 git clone https://github.com/Meziani-EL-huocine/CPU.git
 
+## Future possible Enhancements
+- Extending the instruction set to include more complex operations.
+- Integrating external I/O devices for more advanced functionalities.
+- Implementing pipelining or a more sophisticated control flow.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
